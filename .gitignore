@@ -1,0 +1,14 @@
+# Зависимости
+node_modules/
+frontend/node_modules/
+
+# Данные контейнера PostgreSQL
+postgres_data/
+
+# Сборка Vite
+frontend/dist/
+
+# Логи и переменные окружения
+*.log
+.env
+.DS_Store
